@@ -31,7 +31,7 @@ print(f"logdet: {logdet}, quad: {quad}")
  - Cython: 0.29.21 or newer
  - NumPy: 1.18 or newer
  - Compiler:
-	 - GCC with OpenMP (preferred)
+	 - GCC with OpenMP 
 	 - Clang with libomp (for macOS)
 
 ---
